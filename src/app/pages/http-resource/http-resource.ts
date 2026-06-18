@@ -185,7 +185,7 @@ export class HttpResourceComponent {
   rxjsError = signal<Error | null>(null);
 
   todoResource = httpResource<Todo>(() => {
-    return `https://jsonplaceholder.typicode.com/todosx/${this.todoId()}`;
+    return `https://jsonplaceholder.typicode.com/todos/${this.todoId()}`;
   });
 
   incrementId() {
