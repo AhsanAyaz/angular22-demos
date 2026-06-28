@@ -1,4 +1,27 @@
-# Angular22Demos
+# Angular v22 Demos ⚡
+
+This repository contains practical examples demonstrating the new features introduced in Angular v21 and v22 (like `injectAsync`, `httpResource`, Signal Forms, and template enhancements).
+
+---
+
+## 📚 Mastering Angular Signals (Special Launch Discount!)
+
+<a href="https://leanpub.com/mastering-angular-signals/c/V22LAUNCH?utm_source=youtube&utm_medium=social&utm_campaign=v22-launch" target="_blank">
+  <img src="public/book-cover.jpg" alt="Mastering Angular Signals Book Cover" width="180" align="right" style="margin-left: 20px;" />
+</a>
+
+Accelerate your journey to becoming a master of reactive Angular! Learn how to leverage Signals for state management, build high-performance applications, and prepare your apps for a zoneless future.
+
+👉 **[Get the Book on Leanpub with the launch coupon (V22LAUNCH)](https://leanpub.com/mastering-angular-signals/c/V22LAUNCH?utm_source=youtube&utm_medium=social&utm_campaign=v22-launch)**
+
+What you will learn:
+* ⚡ **Core Reactive APIs**: `signal`, `computed`, `effect`, and `linkedSignal`.
+* 📡 **Declarative Async**: `resource`, `rxResource`, and HTTP patterns.
+* 📋 **Modern Forms**: Building schema-validated reactive Signal Forms.
+* 🛠️ **Seamless Migration**: Moving from Observables to Signals step-by-step.
+* 🚀 **Zoneless Architecture**: Optimizing change detection and rendering performance.
+
+---
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.1.
 
